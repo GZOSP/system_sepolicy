@@ -30,3 +30,5 @@ create_pty(untrusted_app)
 
 # Allow AOPT to call module_request
 allow untrusted_app kernel:system module_request;
+
+allow untrusted_app system_app_data_file:dir getattr;
