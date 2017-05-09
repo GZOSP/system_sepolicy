@@ -457,6 +457,7 @@ get_prop(system_server, boottime_prop)
 
 # theme property
 get_prop(system_server, theme_prop)
+set_prop(system_server, theme_prop)
 
 # Read device's serial number from system properties
 get_prop(system_server, serialno_prop)
