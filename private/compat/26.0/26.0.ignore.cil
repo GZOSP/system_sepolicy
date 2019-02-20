@@ -107,6 +107,7 @@
     statsdw_socket
     statscompanion_service
     storaged_data_file
+    substratum_service
     sysfs_disk_stat
     sudaemon
     sysfs_disk_stat
@@ -115,6 +116,8 @@
     system_net_netd_hwservice
     system_update_service
     test_boot_reason_prop
+    theme_data_file
+    theme_prop
     thermal_service
     thermalcallback_hwservice
     thermalserviced
