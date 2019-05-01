@@ -94,12 +94,15 @@
     statsdw
     statsdw_socket
     storaged_data_file
+    substratum_service
     sysfs_disk_stat
     sudaemon
     sysfs_disk_stat
     system_boot_reason_prop
     system_update_service
     test_boot_reason_prop
+    theme_data_file
+    theme_prop
     tombstone_wifi_data_file
     trace_data_file
     traced
