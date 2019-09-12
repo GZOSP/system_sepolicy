@@ -1,1 +1,5 @@
 typeattribute recovery coredomain;
+
+userdebug_or_eng(`
+permissive recovery;
+')
