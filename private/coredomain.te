@@ -100,6 +100,7 @@ full_treble_only(`
     coredomain
     -init
     -vold
+    -recovery
   } proc:file no_rw_file_perms;
 
   # /sys
@@ -108,6 +109,7 @@ full_treble_only(`
     -init
     -ueventd
     -vold
+    -recovery
   } sysfs:file no_rw_file_perms;
 
   # /dev
